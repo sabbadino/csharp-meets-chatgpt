@@ -3,7 +3,7 @@
    
   ],
   "setId": "4fa85f64-5717-4562-b3fc-2c963f66afa6",
-  "directoryPath": "C:\\PRODUCT\\repos\\playground\\myMsc-Chatgpt\\myMscChatGpt\\Embeddings\\ms-build-2023",
+  "directoryPath": "C:\\PRODUCT\\my-github-repo\\csharp-meets-chatgpt\\myMscChatGpt\\Embeddings\\ms-build-2023",
   "searchPattern": "*.txt",
   "recursive": true
 }
